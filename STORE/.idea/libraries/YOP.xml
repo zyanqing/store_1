@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="YOP">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/YOP" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/YOP" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fileupload">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/fileupload" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/fileupload" recursive="false" />
+  </library>
+</component>

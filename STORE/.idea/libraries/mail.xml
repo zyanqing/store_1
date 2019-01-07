@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mail">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/mail" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib/mail" recursive="false" />
+  </library>
+</component>

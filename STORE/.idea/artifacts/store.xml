@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="store">
+    <output-path>$PROJECT_DIR$/../JAVA/apache-tomcat-8.5.34/webapps/store</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="STORE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="STORE" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-beanutils-1.8.3" />
+          <element id="library" level="project" name="c3p0" />
+          <element id="library" level="project" name="dbutils" />
+          <element id="library" level="project" name="dom4j" />
+          <element id="library" level="project" name="fileupload" />
+          <element id="library" level="project" name="json" />
+          <element id="library" level="project" name="jstl" />
+          <element id="library" level="project" name="mail" />
+          <element id="library" level="project" name="mysql" />
+          <element id="library" level="module" name="JUnit4" module-name="STORE" />
+          <element id="library" level="project" name="YOP" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
