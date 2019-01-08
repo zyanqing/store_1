@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="store">
-    <output-path>$PROJECT_DIR$/../JAVA/apache-tomcat-8.5.34/webapps/store</output-path>
+    <output-path>$PROJECT_DIR$/../../apache-tomcat-8.5.34/webapps/store</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="STORE/web/Web" />
       <element id="directory" name="WEB-INF">

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TestFileUpland">
+    <output-path>$PROJECT_DIR$/../../apache-tomcat-8.5.34/webapps/TestFileUpland</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TestFileUpland/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TestFileUpland" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-io-2.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../TestFileUpland/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
